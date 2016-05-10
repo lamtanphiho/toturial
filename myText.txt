@@ -1,1 +1,2 @@
 den con khi con biet dung git
+add: Ðang ký thay d?i trong index
